@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER: Replace with your name and one-line identity -->
-# hello, i'm adhithya 👋
+# hello, i'm adhithya :)
 ### software · embedded systems · iot · ai/ml engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Engineering+student.;Building+projects+that+solve+real+problems.;Arch+Linux+%E2%80%A2+Hyprland+%E2%80%A2+Open+Source.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=engineering+student.;building+projects+that+solve+real+problems.;lots+of+linux+%E2%80%A2+secure+and+personal+%E2%80%A2+open+source.)](https://git.io/typing-svg)
 
 </div>
 
