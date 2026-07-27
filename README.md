@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- HEADER: Replace with your name and one-line identity -->
-# hey, i'm [Your Name] 👋
-### [embedded systems / IoT / ML] engineer · building [what you build and for whom]
+# hello, i'm [adhithya] 👋
+### [software / embedded / iot / ai / ml] engineer · building [what interests me, with meaningful solutions.]
 
 <!-- Catppuccin Mocha accent: Mauve (#CBA6F7) — change to Peach (#FAB387), Sky (#89DCEB), or Green (#A6E3A1) if preferred -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=CBA6F7&center=true&vCenter=true&width=435&lines=[Line+1+about+you];[Line+2+about+you];[Line+3+about+you])](https://git.io/typing-svg)
@@ -18,7 +18,7 @@
 |---|---|
 | [Domain 1, e.g. Embedded] | `[Tool]` `[Tool]` `[Tool]` |
 | [Domain 2, e.g. IoT] | `[Tool]` `[Tool]` `[Tool]` |
-| [Domain 3, e.g. ML / AI] | `[Tool]` `[Tool]` `[Tool]` |
+| [Domain 3, e.g. AI / ML] | `[Tool]` `[Tool]` `[Tool]` |
 | [Domain 4, e.g. Web] | `[Tool]` `[Tool]` `[Tool]` |
 | [Domain 5, e.g. Tools] | `[Tool]` `[Tool]` `[Tool]` |
 
