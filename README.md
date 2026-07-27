@@ -15,7 +15,7 @@
 <!-- SKILLS TABLE: Fill in your actual skills per row. Add/remove rows freely. -->
 | Domain | Stack |
 |---|---|
-| [Domain 1, e.g. Embedded] | `[Tool]` `[Tool]` `[Tool]` |
+| [Domain 1, e.g. Embedded] | `STM32` `Arduino` `ESP32` `PIC16F` `Embedded C/C++` |
 | [Domain 2, e.g. IoT] | `[Tool]` `[Tool]` `[Tool]` |
 | [Domain 3, e.g. AI / ML] | `[Tool]` `[Tool]` `[Tool]` |
 | [Domain 4, e.g. Web] | `[Tool]` `[Tool]` `[Tool]` |
@@ -50,7 +50,7 @@
 ## 🔗 find me
 
 <!-- Badge accent color: Catppuccin Mocha Mauve -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CBA6F7?style=flat&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/[YOUR_HANDLE])
-[![Mail](https://img.shields.io/badge/Email-CBA6F7?style=flat&logo=gmail&logoColor=1E1E2E)](mailto:[YOUR_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CBA6F7?style=flat&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/[adhithya-ramkumar])
+[![Mail](https://img.shields.io/badge/Email-CBA6F7?style=flat&logo=gmail&logoColor=1E1E2E)](mailto:[adhithyaram009@proton.me])
 
 </div>
