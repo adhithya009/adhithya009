@@ -2,10 +2,10 @@
 
 <!-- HEADER: Replace with your name and one-line identity -->
 # hello, i'm [adhithya] 👋
-### [software / embedded / iot / ai / ml] engineer · building [what interests me, with meaningful solutions.]
+### [software · embedded systems· iot · ai/ml] engineer · ### engineering student building intelligent systems
 
 <!-- Catppuccin Mocha accent: Mauve (#CBA6F7) — change to Peach (#FAB387), Sky (#89DCEB), or Green (#A6E3A1) if preferred -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=CBA6F7&center=true&vCenter=true&width=435&lines=[Line+1+about+you];[Line+2+about+you];[Line+3+about+you])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=CBA6F7&center=true&vCenter=true&width=435&lines=[Building intelligent embedded systems.];[Learning AI, ML & Edge Computing.];[Lots of Linux • Secure • Burgers and Cola 🍔🍹])](https://git.io/typing-svg)
 
 </div>
 
