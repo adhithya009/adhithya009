@@ -15,11 +15,11 @@
 <!-- SKILLS TABLE: Fill in your actual skills per row. Add/remove rows freely. -->
 | Domain | Stack |
 |---|---|
-| [Domain 1, e.g. Embedded] | `STM32` `Arduino` `ESP32` `PIC16F` `Embedded C/C++` |
-| [Domain 2, e.g. IoT] | `[Tool]` `[Tool]` `[Tool]` |
-| [Domain 3, e.g. AI / ML] | `[Tool]` `[Tool]` `[Tool]` |
-| [Domain 4, e.g. Web] | `[Tool]` `[Tool]` `[Tool]` |
-| [Domain 5, e.g. Tools] | `[Tool]` `[Tool]` `[Tool]` |
+| [Domain 1: Embedded] | `STM32` `Arduino` `ESP32` `PIC16F` `Embedded C/C++` |
+| [Domain 2: IoT] | `[Tool]` `[Tool]` `[Tool]` |
+| [Domain 3: AI / ML] | `[Tool]` `[Tool]` `[Tool]` |
+| [Domain 4: Web] | `[Tool]` `[Tool]` `[Tool]` |
+| [Domain 5: Tools] | `[Tool]` `[Tool]` `[Tool]` |
 
 ---
 
