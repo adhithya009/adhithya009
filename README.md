@@ -30,18 +30,8 @@
 - **[Project Name]** — [What it does and why it matters]
 - **[Project Name]** — [What it does and why it matters]
 
-> 👆 pinned repos below for code
 
 ---
-
-## 📊 stats
-
-<div align="center">
-
-<!-- STATS: Replace YOUR_USERNAME with your actual GitHub username in both URLs -->
-<!-- theme=catppuccin_mocha requires the community stats fork — swap to tokyonight or github_dark if it doesn't render -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&hide=issues&icon_color=CBA6F7&title_color=CBA6F7"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=CBA6F7"/>
 
 </div>
 
