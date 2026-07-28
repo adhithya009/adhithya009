@@ -14,9 +14,8 @@
 | Domain | Stack |
 |---|---|
 | **Embedded Systems** | `STM32` `Arduino` `ESP32` `PIC16F` `Embedded C/C++` |
-| **IoT & Control** | `Microcontroller Programming` `Real-time Systems` `Sensor Integration` `PCB Design` |
+| **IoT & Control** | `Microcontroller Programming` `Real-time Systems` `Sensor Integration` |
 | **AI / ML** | `Python` `Scikit-learn` `TensorFlow` `Data Analysis` `Fault Detection` |
-| **Web & App Dev** | `JavaScript` `React` `Node.js` `Tkinter` `Full-stack` |
 | **Tools & Practices** | `Git` `Linux` `MATLAB` `Jupyter` `CAD Tools` |
 
 ---
