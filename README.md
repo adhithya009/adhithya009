@@ -34,12 +34,6 @@
 
 ---
 
-## 📊 github stats
-
-![adhithya009's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhithya009&theme=catppuccin_mocha&show_icons=true&hide_border=true)
-
----
-
 ## 🔗 find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CBA6F7?style=flat&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/adhithya-ramkumar)
