@@ -3,13 +3,13 @@
 # hello, i'm adhithya :)
 ### software · embedded systems · iot · ai/ml engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=engineering+student;building+hardware+%26+ML+systems;exploring+embedded+systems)](https://github.com/adhithya009)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=i+am+an+engineering+undergraduate;building+hardware+%26+ML+systems;and+exploring+embedded+systems)](https://github.com/adhithya009)
 
 </div>
 
 ---
 
-## 🛠 what i work with
+##  what i work with
 
 | Domain | Stack |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 things i've built
+##  things i've built
 
 - **[1-DSolarTracker](https://github.com/adhithya009/1-DSolarTracker)** — Real-time solar tracking system using microcontroller logic; combines embedded C with mechanical control for optimized solar panel positioning
 
