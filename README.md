@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=embedded+systems+%7C+STM32+%7C+ESP32;ML+%7C+signal+processing+%7C+engineering;building+things+that+sit+close+to+the+metal;linux+%7C+ARM+assembly+%7C+terminal+wizardry](https://github.com/adhithya009))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=embedded+systems+%7C+STM32+%7C+ESP32;ML+%7C+signal+processing+%7C+engineering;building+things+that+sit+close+to+the+metal;linux+%7C+ARM+assembly+%7C+terminal+wizardry)](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=embedded+systems+%7C+STM32+%7C+ESP32;ML+%7C+signal+processing+%7C+engineering;building+things+that+sit+close+to+the+metal;linux+%7C+ARM+assembly+%7C+terminal+wizardry)
 
 <br/>
 
