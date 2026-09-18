@@ -15,7 +15,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CBA6F7?style=flat-square&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/adhithya-ramkumar)
-[![Email](https://img.shields.io/badge/proton.me-CBA6F7?style=flat-square&logo=protonmail&logoColor=1E1E2E)](mailto:adhithyaram009@proton.me)
+[![Email](https://img.shields.io/badge/proton.me-CBA6F7?style=flat-square&logo=protonmail&logoColor=1E1E2E)](mailto:[adhithyaramkumar009@proton.me])
 [![GitHub](https://img.shields.io/badge/github-CBA6F7?style=flat-square&logo=github&logoColor=1E1E2E)](https://github.com/adhithya009)
 
 </div>
