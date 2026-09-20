@@ -67,56 +67,47 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=313244&height=2&section=header" width="100%"/>
 
 <br/>
-
-## things i've built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[1-D Solar Tracker](https://github.com/adhithya009/1-DSolarTracker)**
-`STM32` `Embedded C` `Control Systems`
-
-Real-time solar tracking using microcontroller logic and mechanical control. Optimizes panel orientation continuously using LDR-based feedback.
-
-</td>
-<td width="50%" valign="top">
-
-**[e-GridsFDI](https://github.com/adhithya009/e-GridsFDI)**
-`Python` `ML` `Anomaly Detection`
-
-Fault detection system for smart grids — applies ML anomaly detection to identify electrical failures before cascade events occur.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[InnrMap](https://github.com/adhithya009/InnrMap)**
-`React` `JavaScript` `NLP`
-
-Career guidance web app using anonymous personality profiling for job matching. Built with a conversational UI for low-friction user input.
-
-</td>
-<td width="50%" valign="top">
-
-**[AirportTransit](https://github.com/adhithya009/AirportTransit)**
-`Python` `Simulation` `Optimization`
-
-Dynamic headway optimization comparing adaptive vs. fixed-schedule transit systems. Quantifies throughput gains in passenger flow modeling.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[SheSafeSim](https://github.com/adhithya009/SheSafeSim)**
-`Python` `Tkinter` `OOP`
-
-Women's safety application simulator demonstrating clean OOP architecture and practical GUI design with Python's standard library.
-
-</td>
-<td width="50%" valign="top">
+## things i've built                                                                                                                       
+                                                                                                                                               
+    <table>                                                                                                                                    
+    <tr>                                                                                                                                       
+    <td width="50%" valign="top">                                                                                                              
+                                                                                                                                               
+    **[1-D Solar Tracker](https://github.com/adhithya009/single-dimensional-solar-tracker)**                                                   
+    `STM32` `Embedded C` `Control Systems`                                                                                                     
+                                                                                                                                               
+    Real-time solar tracking using microcontroller logic and mechanical control. Optimizes panel orientation continuously using LDR-based feedback.                                                                                                                                    
+                                                                                                                                               
+    </td>                                                                                                                                      
+    <td width="50%" valign="top">
+  
+    **[e-GridsFDI](https://github.com/adhithya009/e-grids-fdi)**
+    `Python` `ML` `Anomaly Detection`
+  
+    Fault detection system for smart grids — applies ML anomaly detection to identify electrical failures before cascade events occur.         
+  
+    </td>
+    </tr>
+    <tr>
+    <td width="50%" valign="top">
+  
+    **[Arrhythmia Detection](https://github.com/adhithya009/arrhythmia-detection)**
+    `Python` `Deep Learning` `1D-CNN` `TCN`
+  
+    Arrhythmia detection pipeline for wearable devices using 1-D CNNs and Temporal Convolution Networks on cardiac time-series data.           
+  
+    </td>
+    <td width="50%" valign="top">
+  
+    **[SheSafeSim](https://github.com/adhithya009/she-safe-sim)**
+    `Python` `Tkinter` `OOP`
+  
+    Women's safety application simulator demonstrating clean OOP architecture and practical GUI design with Python's standard library.         
+  
+    </td>
+    </tr>
+    </table>
+    
 
 **currently building →**
 `STM32` `FreeRTOS` `CAN bus`
