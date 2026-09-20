@@ -4,15 +4,11 @@
 
 <br>
 
-<h3>&gt; hello, i'm adhithya</h3>
+### > hello, i'm adhithya
 
-<p>
 ELC undergrad · embedded · IoT · AI/ML
-</p>
 
-<p>
-currently building at the intersection of hardware &amp; software
-</p>
+currently building at the intersection of hardware & software
 
 <br>
 
@@ -44,9 +40,9 @@ currently building at the intersection of hardware &amp; software
 
 <div align="center">
 
-<b>embedded systems</b>
+**embedded systems**
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/C-89DCEB?style=flat-square&logo=c&logoColor=1E1E2E">
 <img src="https://img.shields.io/badge/C++-89DCEB?style=flat-square&logo=cplusplus&logoColor=1E1E2E">
@@ -67,9 +63,9 @@ currently building at the intersection of hardware &amp; software
 
 <br><br>
 
-<b>ai / ml &amp; signal processing</b>
+**ai / ml & signal processing**
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Python-A6E3A1?style=flat-square&logo=python&logoColor=1E1E2E">
 <img src="https://img.shields.io/badge/TensorFlow-A6E3A1?style=flat-square&logo=tensorflow&logoColor=1E1E2E">
@@ -80,9 +76,9 @@ currently building at the intersection of hardware &amp; software
 
 <br><br>
 
-<b>systems &amp; tooling</b>
+**systems & tooling**
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Linux-FAB387?style=flat-square&logo=linux&logoColor=1E1E2E">
 <img src="https://img.shields.io/badge/Git-FAB387?style=flat-square&logo=git&logoColor=1E1E2E">
@@ -107,35 +103,23 @@ currently building at the intersection of hardware &amp; software
 
 <td width="50%" valign="top">
 
-<h3>
-<a href="https://github.com/adhithya009/single-dimensional-solar-tracker">
-1-D Solar Tracker
-</a>
-</h3>
+**[1-D Solar Tracker](https://github.com/adhithya009/single-dimensional-solar-tracker)**
 
-<code>STM32</code> <code>Embedded C</code> <code>Control Systems</code>
+`STM32` `Embedded C` `Control Systems`
 
-<p>
 Real-time solar tracking using microcontroller-based feedback and mechanical control.
 Uses LDR feedback to continuously adjust panel orientation toward the strongest incident light.
-</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>
-<a href="https://github.com/adhithya009/e-grids-fdi">
-e-GridsFDI
-</a>
-</h3>
+**[e-GridsFDI](https://github.com/adhithya009/e-grids-fdi)**
 
-<code>Python</code> <code>ML</code> <code>Anomaly Detection</code>
+`Python` `ML` `Anomaly Detection`
 
-<p>
 Machine-learning-based fault detection for smart-grid systems.
 Explores anomaly detection for identifying abnormal electrical behavior.
-</p>
 
 </td>
 
@@ -145,33 +129,21 @@ Explores anomaly detection for identifying abnormal electrical behavior.
 
 <td width="50%" valign="top">
 
-<h3>
-<a href="https://github.com/adhithya009/arrhythmia-detection">
-Arrhythmia Detection
-</a>
-</h3>
+**[Arrhythmia Detection](https://github.com/adhithya009/arrhythmia-detection)**
 
-<code>Python</code> <code>Deep Learning</code> <code>1D-CNN</code> <code>TCN</code>
+`Python` `Deep Learning` `1D-CNN` `TCN`
 
-<p>
 Deep-learning pipeline for cardiac time-series classification using 1-D convolutional architectures and temporal convolution networks.
-</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>
-<a href="https://github.com/adhithya009/she-safe-sim">
-SheSafeSim
-</a>
-</h3>
+**[SheSafeSim](https://github.com/adhithya009/she-safe-sim)**
 
-<code>Python</code> <code>Tkinter</code> <code>OOP</code>
+`Python` `Tkinter` `OOP`
 
-<p>
 Women's safety application simulator built around object-oriented architecture and a lightweight desktop GUI.
-</p>
 
 </td>
 
@@ -182,20 +154,15 @@ Women's safety application simulator built around object-oriented architecture a
 
 <div align="center">
 
-🛠️ <b>currently building</b>
-
-<br><br>
-
-<code>STM32</code>
-<code>FreeRTOS</code>
-<code>CAN Bus</code>
-<code>Embedded C</code>
-
-<br><br>
-
-<b>Two-Level Priority CAN Gateway</b>
+🛠️ **currently building**
 
 <br>
+
+`STM32` `FreeRTOS` `CAN Bus` `Embedded C`
+
+<br>
+
+**Two-Level Priority CAN Gateway**
 
 Interrupt-driven CAN message routing with real-time task scheduling,
 priority handling and low-level STM32 peripheral drivers.
@@ -212,23 +179,15 @@ priority handling and low-level STM32 peripheral drivers.
 
 <div align="center">
 
-<code>Embedded Linux</code>
-<code>RTOS</code>
-<code>ARM Cortex-M</code>
-<code>CAN / Automotive Systems</code>
+`Embedded Linux` `RTOS` `ARM Cortex-M` `CAN / Automotive Systems`
 
 <br><br>
 
-<code>IoT</code>
-<code>Edge AI</code>
-<code>TinyML</code>
-<code>Digital Signal Processing</code>
+`IoT` `Edge AI` `TinyML` `Digital Signal Processing`
 
 <br><br>
 
-<code>Computer Architecture</code>
-<code>Low-Level Systems</code>
-<code>Hardware / Software Co-Design</code>
+`Computer Architecture` `Low-Level Systems` `Hardware / Software Co-Design`
 
 </div>
 
