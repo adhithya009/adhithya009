@@ -54,7 +54,7 @@ currently building at the intersection of hardware &amp; software
 <img src="https://img.shields.io/badge/ESP32-89DCEB?style=flat-square&logo=espressif&logoColor=1E1E2E">
 <img src="https://img.shields.io/badge/ARM_Cortex--M-89DCEB?style=flat-square&logo=arm&logoColor=1E1E2E">
 <img src="https://img.shields.io/badge/FreeRTOS-89DCEB?style=flat-square&logo=freertos&logoColor=1E1E2E">
-<img src="https://img.shields.io/badge/CAN_Bus-89DCEB?style=flat-square&logoColor=1E1E2E">
+<img src="https://img.shields.io/badge/CAN_Bus-89DCEB?style=flat-square">
 
 <br><br>
 
@@ -67,7 +67,7 @@ currently building at the intersection of hardware &amp; software
 
 <br><br>
 
-<b>ai / ml & signal processing</b>
+<b>ai / ml &amp; signal processing</b>
 
 <br><br>
 
@@ -80,7 +80,7 @@ currently building at the intersection of hardware &amp; software
 
 <br><br>
 
-<b>systems & tooling</b>
+<b>systems &amp; tooling</b>
 
 <br><br>
 
@@ -186,7 +186,10 @@ Women's safety application simulator built around object-oriented architecture a
 
 <br><br>
 
-<code>STM32</code> <code>FreeRTOS</code> <code>CAN Bus</code> <code>Embedded C</code>
+<code>STM32</code>
+<code>FreeRTOS</code>
+<code>CAN Bus</code>
+<code>Embedded C</code>
 
 <br><br>
 
@@ -209,15 +212,23 @@ priority handling and low-level STM32 peripheral drivers.
 
 <div align="center">
 
-<code>Embedded Linux</code> <code>RTOS</code> <code>ARM Cortex-M</code> <code>CAN / Automotive Systems</code>
+<code>Embedded Linux</code>
+<code>RTOS</code>
+<code>ARM Cortex-M</code>
+<code>CAN / Automotive Systems</code>
 
 <br><br>
 
-<code>IoT</code> <code>Edge AI</code> <code>TinyML</code> <code>Digital Signal Processing</code>
+<code>IoT</code>
+<code>Edge AI</code>
+<code>TinyML</code>
+<code>Digital Signal Processing</code>
 
 <br><br>
 
-<code>Computer Architecture</code> <code>Low-Level Systems</code> <code>Hardware / Software Co-Design</code>
+<code>Computer Architecture</code>
+<code>Low-Level Systems</code>
+<code>Hardware / Software Co-Design</code>
 
 </div>
 
@@ -233,7 +244,7 @@ priority handling and low-level STM32 peripheral drivers.
 
 <img src="https://github-readme-stats.vercel.app/api?username=adhithya009&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=89DCEB&text_color=CDD6F4&rank_icon=github" height="165">
 
-  
+&nbsp;&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithya009&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4&langs_count=6" height="165">
 
