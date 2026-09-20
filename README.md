@@ -58,21 +58,6 @@ Python-based women's safety application simulator demonstrating object-oriented 
 
 [View repository](https://github.com/adhithya009/she-safe-sim)
 
----
-
-## Currently Building
-
-### Two-Level Priority CAN Gateway
-
-**STM32 · FreeRTOS · CAN Bus · Embedded C**
-
-A real-time CAN gateway implementing:
-
-- Two-level message prioritization
-- Interrupt-driven CAN communication
-- Bare-metal peripheral drivers
-- FreeRTOS task scheduling
-- Real-time message routing
 
 ---
 
